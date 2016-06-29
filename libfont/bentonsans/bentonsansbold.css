@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'bentonsansbold';
+    src: url('fonts/bentonsansbold.eot');
+    src: url('fonts/bentonsansbold.eot') format('embedded-opentype'),
+         url('fonts/bentonsansbold.woff2') format('woff2'),
+         url('fonts/bentonsansbold.woff') format('woff'),
+         url('fonts/bentonsansbold.ttf') format('truetype'),
+         url('fonts/bentonsansbold.svg#bentonsansbold') format('svg');
+}
