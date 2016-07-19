@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'AlrightSans-Regular';
+  src: url('AlrightSans-Regular.eot?#iefix') format('embedded-opentype'),  url('AlrightSans-Regular.otf')  format('opentype'),
+	     url('AlrightSans-Regular.woff') format('woff'), url('AlrightSans-Regular.ttf')  format('truetype'), url('AlrightSans-Regular.svg#AlrightSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
